@@ -1,0 +1,4 @@
+method override can be identified during runtime
+method name, parameters,return type should be same
+method override exist between 2 classes
+static can't be override as it stored in method area.

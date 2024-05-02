@@ -1,0 +1,10 @@
+1. ctrl+main = Main method 
+    public static void main (String[] args){
+    
+    }
+    
+ 2.Syso         = Print statement
+ 3.f6           = step Over ( Debugging)
+ 4.ctrl+shift+i = Find the variable value
+ 5.ctrl+D       = Delete Line
+ 6.Ctrl+Shift+f = Format code    
